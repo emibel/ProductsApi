@@ -7,7 +7,7 @@
     "body-parser": "^1.18.3",
     "cors": "^2.8.3",
     "crypto": "^1.0.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "jwt-simple": "^0.5.5",
     "method-override": "^2.1.2",
     "moment": "^2.24.0",
